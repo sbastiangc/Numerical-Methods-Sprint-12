@@ -1,7 +1,7 @@
 # Numerical-Methods-Sprint-12
 Quickly find out the market value of your car - ML Model for Car Sales Service App
 
-libraries: pandas, numpy, seaborn, sklearn: OrdinalEncoder, OneHotEncoder, LGBMRegressor, sklearn.preprocessing & sklearn.metrics
+Libraries: pandas, numpy, seaborn, sklearn: OrdinalEncoder, OneHotEncoder, LGBMRegressor, sklearn.preprocessing & sklearn.metrics
 
 *English version will be posted soon*
 
